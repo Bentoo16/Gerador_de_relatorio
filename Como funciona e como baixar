@@ -4,3 +4,11 @@ O usuário preenche a ficha avaliativa onde existe um banco de dados liago com a
 As respostas do banco de dados é enviado para a AI (Ollama_version_0.40.4) onde a AI organiza as frases de forma estruturada.
 Esse banco de dados é feito com base em relatórios antigos.
 Esse aplicativo gera um arquivo .docx para o usuário editar o que bem desejar. Nesse documento também é feita a ficha avaliativa para o usuário não se perder.
+
+----------------------------------------------------------
+                     COMO BAIXAR?
+----------------------------------------------------------
+
+- Baixe a versão mais recente do executável
+- Baixe a AI Ollama e rode o código "ollama pull gemma3:4b" no seu Prompt de Comando (CMD)
+- O app já está pronto para ser usado 
